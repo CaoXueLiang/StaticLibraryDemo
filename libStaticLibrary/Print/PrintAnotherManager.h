@@ -10,7 +10,7 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface PrintManager : NSObject
+@interface PrintAnotherManager : NSObject
 + (void)printMenthod;
 @end
 

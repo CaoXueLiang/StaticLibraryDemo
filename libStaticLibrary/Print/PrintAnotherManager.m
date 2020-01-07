@@ -6,11 +6,11 @@
 //  Copyright © 2020 曹学亮. All rights reserved.
 //
 
-#import "PrintManager.h"
+#import "PrintAnotherManager.h"
 
-@implementation PrintManager
+@implementation PrintAnotherManager
 + (void)printMenthod{
-    NSLog(@"测试静态库=== ceshi");
+    NSLog(@"测试静态库=== .a静态库");
 }
 
 @end

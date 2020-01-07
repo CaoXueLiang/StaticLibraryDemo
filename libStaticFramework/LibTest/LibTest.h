@@ -8,4 +8,5 @@
 
 #import <Foundation/Foundation.h>
 
-#import "PrintManager.h"
+#import <LibTest/PrintManager.h>
+

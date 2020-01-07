@@ -11,7 +11,7 @@
 @implementation PrintManager
 
 + (void)printMenthod{
-    NSLog(@"测试静态库");
+    NSLog(@"测试静态库 --framework");
 }
 
 @end
